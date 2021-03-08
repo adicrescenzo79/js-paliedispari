@@ -1,0 +1,8 @@
+.row > div{
+  height: calc(100vh / 3);
+  border: 1px solid black;
+  text-align: center;
+  line-height: calc(100vh / 3);
+  vertical-align: middle;
+  font-size: 10vw;
+}
